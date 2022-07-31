@@ -1,0 +1,19 @@
+body{
+    background-color:#bd5f0f;
+}
+
+.input-fild{
+    text-align: center;
+}
+.meal-item{
+    cursor:pointer;
+}
+#col-container{
+    background-color: #efefcf;
+    color: #1aa979;
+    padding: 5px 45px;
+}
+#col-container img{
+    width:150px;
+    margin: auto;
+}
